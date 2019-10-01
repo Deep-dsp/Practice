@@ -15,8 +15,9 @@ just an editor and Git!
 
 ## AUTHORS
 
-Team members : 1. Deepkumar Patel
-			   2. Sarthak shah
+Team members : 
+1. Deepkumar Patel
+2. Sarthak shah
 
 ## LICENSE 
 
